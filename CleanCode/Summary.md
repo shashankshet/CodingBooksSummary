@@ -1,4 +1,4 @@
-# Clean Code by Robert C
+# Clean Code
 
 
 ### Here’s a comprehensive summary of "Clean Code: A Handbook of Agile Software Craftsmanship" By Martin
