@@ -1,7 +1,7 @@
 # Clean Code by Robert C
 
 
-### Here’s a comprehensive summary of "Clean Code: A Handbook of Agile Software Craftsmanship"  . Martin in approximately 1000 words:
+### Here’s a comprehensive summary of "Clean Code: A Handbook of Agile Software Craftsmanship" By Martin
 
 #### Introduction
 "Clean Code" is a seminal book in software engineering that emphasizes the importance of writing code that is not only functional but also maintainable, readable, and efficient. Robert C. Martin, also known as "Uncle Bob," provides principles, practices, and case studies to teach developers how to write "clean" code. The book is divided into three parts:
